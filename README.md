@@ -44,7 +44,7 @@ Epusdt
 - HTML+PHP极速运行`epusdt`教程👉🏻[使用PHPAPI-for-epusdt极速接入epusdt](https://github.com/BlueSkyXN/PHPAPI-for-epusdt)
 
 ## 已适配系统插件
-- 独角数卡[插件地址](plugins/dujiaoka)
+- Alleo发卡[插件地址](plugins/dujiaoka)
 
 ## 💳推荐U卡 
 - （香港万事达U卡,可绑定支付宝/微信/谷歌云/腾讯云/阿里云/狗爹/ATM取现）[👉🏻点我直达](https://www.thpay.org/?channelCode=2297074)
